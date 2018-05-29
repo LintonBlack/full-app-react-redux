@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+I followed Maximilian Schwarzmuller courses on Complete Guide React 16 on udemy
 ## Folder Structure
 
 After creation, your project should look like this:
